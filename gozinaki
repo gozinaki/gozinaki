@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>gozinaki recipe</title>
+    </head>
+    <body>
+    <h2>gozinaki Recipe</h2>
+    <ul id= "recipie">
+        <li>4 cups of walnuts</li>
+        <li>1 tsp vegetable oil </li>
+        <li>1 cup honey</li>
+        <li>2 tbsp sugar</li>
+    
+    <img src="https://en.wikipedia.org/wiki/Gozinaki#/media/File:Gozinaki_with_walnuts.jpg">
+
+        
+    </ul>
+    <h2>method</h2>
+    <ul id="method">
+            
+            <a id="wikipedia" href="https://en.wikipedia.org/wiki/Gozinaki">learn more on wikipedia</a>
+    
+        
+        <li>Heat the oven to 350 °F.</li>
+       
+        
+        <li>Roughly chop the nuts and place them on a bake sheet. If there is any residual powder left from the nuts, don’t place them on the bake sheet as they will burn.</li>
+       
+        
+        <li>Grill in the oven for 5 to 7 minutes, until the nuts become fragrant. Remove from the oven.</li>
+        
+        
+        <li> Rub oil on another bake sheet and set aside.</li>
+        
+       
+        <li>Pour the honey and sugar into a large pan on medium heat. Cook, stirring occasionally, until the boiling honey darkens (about 5 minutes).</li>
+        
+        
+        <li>Incorporate the grilled nuts using a wooden spatula. Mix without stopping to coat the nuts and to continue the caramelization for another 4 to 5 minutes.</li>
+        
+        
+        <li>Once the caramel is dark, pour it on to the already oiled bake sheet. With the help of a spatula, create an even, one-inch-thick, rectangular wafer. Be careful: do not touch the caramel with your fingers as it is perilously hot.</li>
+       
+       
+        <li>Let rest for ten minutes then, with a large knife, cut it into squares or diamonds.</li>
+       
+     
+    </ul>
+    <h3 id="categorie">CATEGORIES: deserts. snacks.</h3>
+    
+
+    </body>
+         <style>
+         #wikipedia {
+             
+             font-size:18px;
+         }
+         
+             
+         body{
+             font-size:19px;
+             }
+        
+         h2 {
+            color: rgb(255, 115, 115);
+            font-size: 1.6em;
+        }  
+         
+         #recipie {
+             line-height:1.9em;
+             color: rgb(0, 0, 0)
+         }
+         #method {
+             line-height:1.9em;
+             color:rgb(0, 0, 0)
+         }
+        #categorie {
+            color:rgb(255, 115, 115)
+        }
+        
+        </style>
+    
+</html>
